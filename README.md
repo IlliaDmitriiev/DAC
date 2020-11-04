@@ -9,7 +9,7 @@ How to build:
 How to run:
 
  You should execute the following command after build in the same directory:
- ./DAC absolute_dir_path
+ - ./DAC absolute_dir_path
  
 Requires:
  - CMake 17 or latest
